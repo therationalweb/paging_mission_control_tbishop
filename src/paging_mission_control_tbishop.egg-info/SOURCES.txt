@@ -1,0 +1,5 @@
+setup.py
+src/paging_mission_control_tbishop.egg-info/PKG-INFO
+src/paging_mission_control_tbishop.egg-info/SOURCES.txt
+src/paging_mission_control_tbishop.egg-info/dependency_links.txt
+src/paging_mission_control_tbishop.egg-info/top_level.txt
