@@ -1,4 +1,4 @@
-Metadata-Version: 1.2
+Metadata-Version: 2.1
 Name: paging-mission-control-tbishop
 Version: 0.0.1
 Summary: This program generates JSON formatted alerts based on prescribed thresholds
@@ -25,3 +25,4 @@ Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3.9
 Classifier: License :: OSI Approved :: MIT LicenseOperating System :: OS Independent
 Requires-Python: >3.6
+Description-Content-Type: text/markdown

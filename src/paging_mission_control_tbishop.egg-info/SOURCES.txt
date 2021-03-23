@@ -1,4 +1,7 @@
+pyproject.toml
+setup.cfg
 setup.py
+src/paging_mission_control_tbishop/__init__.py
 src/paging_mission_control_tbishop.egg-info/PKG-INFO
 src/paging_mission_control_tbishop.egg-info/SOURCES.txt
 src/paging_mission_control_tbishop.egg-info/dependency_links.txt
